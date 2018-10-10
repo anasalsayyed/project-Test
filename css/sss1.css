@@ -1,0 +1,40 @@
+* {box-sizing: border-box}
+
+
+
+.skills {
+  text-align: left;
+  padding: 10px;
+  color: white;
+ 
+}
+
+.Amazing {
+	width: 82%;
+ background-color: black; 
+ height: 20px;
+ padding: 0px;
+}
+
+.good {
+	width: 12%; 
+	background-color: black; 
+	 height: 20px
+	 ;padding: 0px;
+	}
+
+.no {
+	width: 6%;
+	 background-color: black; 
+	  height: 20px;
+	  padding: 0px;
+	}
+	.p1{
+   font-size: 25px;
+  color: #796c65;
+}
+	.p2{
+ font-size: 20px;
+  color: #796c65;
+  float: right;
+	}
